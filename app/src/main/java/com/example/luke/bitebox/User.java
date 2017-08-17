@@ -6,6 +6,11 @@ package com.example.luke.bitebox;
 
 public class User {
 
+    String name;
+
+    public User() {
+    }
+
     public User(String name) {
         this.name = name;
     }
@@ -18,7 +23,7 @@ public class User {
         this.name = name;
     }
 
-    String name;
+
 
 
 }

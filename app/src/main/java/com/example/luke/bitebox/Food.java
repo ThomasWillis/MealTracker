@@ -8,6 +8,8 @@ public class Food {
 
     String name;
     int points;
+    String mealTime;
+    String mealImage;
 
 
 }
